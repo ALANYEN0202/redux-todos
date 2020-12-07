@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://alanyen0202.github.io/redux-todo",
+  "homepage": "https://alanyen0202.github.io/redux-todos",
   "eslintConfig": {
     "extends": [
       "react-app",
